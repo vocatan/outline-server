@@ -94,7 +94,7 @@ The OpenAPI specification can be found at [api.yml](./server/api.yml).
 
 ### Examples
 
-Start by storing the apiURL you see see in that file, as a variable. For example:
+Start by storing the apiURL you see in that file, as a variable. For example:
 
 ```
 API_URL=https://1.2.3.4:1234/3pQ4jf6qSr5WVeMO0XOo4z
